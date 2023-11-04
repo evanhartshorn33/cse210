@@ -1,7 +1,5 @@
 using System;
 using System.Threading;
-
-// Base class for all activities
 class Activity
 {
     public string Name { get; set; }
